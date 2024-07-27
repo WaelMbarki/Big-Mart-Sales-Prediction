@@ -12,7 +12,7 @@
  
 ### Project Overview
 
-In this project, our goal is to build a predictive model to forecast market sales for Big Mart. By analyzing the given dataset, we aim to derive insights that can help improve sales strategies and inventory management.
+In this project, our goal is to build a predictive model to forecast market sales for Big Mart. By analyzing the given dataset, we aim to derive insights that can help improve sales strategies.
 
 ### Data source 
 
